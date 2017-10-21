@@ -1,5 +1,5 @@
 # Learning Git
-The purpose of this repository is to practice git commands using the command line and its basic instructions.
+The purpose of this repository is to practice git commands using the command line and it's basic instructions.
 This training was proposed to the **Nerfherders** team, a community that loves the open source world and knowledge sharing.
 
 ## How it is done?
